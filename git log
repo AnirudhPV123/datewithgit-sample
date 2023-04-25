@@ -1,0 +1,49 @@
+[33mcommit 8b878b12fd821d57f6dcec2ec148162feca42c61[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 08e3c29 783f030
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:45:12 2023 +0530
+
+    seperate branches merge
+
+[33mcommit 783f030b436b19fb827ca18fc3a337fdb7b6ace9[m
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:29:03 2023 +0530
+
+    hello modified
+
+[33mcommit 08e3c29dae19f5cc34cdf39e6b0c04cc4cf69324[m
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:27:40 2023 +0530
+
+    hai modified
+
+[33mcommit 49476ca7d4adf3013e4523c8579e981b76e8ce57[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: d27a143 d41150d
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:16:52 2023 +0530
+
+    WIP on master: d27a143 hai First message
+
+[33mcommit d41150d70c87b2f7700012e4ca496e8f46b7bbd6[m
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:16:52 2023 +0530
+
+    index on master: d27a143 hai First message
+
+[33mcommit d27a143cb4bede773b6886f06c41f07f988e1267[m
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:14:26 2023 +0530
+
+    hai First message
+
+[33mcommit 77af7d4c0bb0e634c1c65dd3feae61279f138679[m
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:10:51 2023 +0530
+
+    Second message
+
+[33mcommit 048ac2112b4b2b8a40fae5f265135ef7e129a841[m
+Author: AnirudhPV123 <pvanirudh96@gmail.com>
+Date:   Tue Apr 25 23:09:38 2023 +0530
+
+    First message
